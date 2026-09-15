@@ -1,3 +1,3 @@
-source_repository,source_commit,source_path,proposed_destination,status
-IS-2053-008-Programming-I,d5d49b5d9d800828c22736729d8d0f510a23877a,"Portfolio/Projects/Retail Discount Calculator","courses/is-2053/projects/retail-discount-calculator","STAGED LOCALLY"
-IS-2053-008-Programming-I,d5d49b5d9d800828c22736729d8d0f510a23877a,"Portfolio/Projects/Golf Score Tracker","courses/is-2053/projects/golf-score-tracker","STAGED LOCALLY"
+source_repository,source_commit,source_path,destination_path,import_history,current_showcase_status
+IS-2053-008-Programming-I,d5d49b5d9d800828c22736729d8d0f510a23877a,"Portfolio/Projects/Retail Discount Calculator","courses/is-2053/projects/retail-discount-calculator","Copied as a clean snapshot without source Git history","APPROVED FOR PUBLIC SHOWCASE"
+IS-2053-008-Programming-I,d5d49b5d9d800828c22736729d8d0f510a23877a,"Portfolio/Projects/Golf Score Tracker","courses/is-2053/projects/golf-score-tracker","Copied as a clean snapshot without source Git history","APPROVED FOR PUBLIC SHOWCASE"

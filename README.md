@@ -1,15 +1,13 @@
 # Computing and Cybersecurity Coursework
 
-Private local staging skeleton. This is not a GitHub repository and is not approved for publication.
+This repository is a curated portfolio showcase prepared and approved for public release. It contains selected user-authored coursework refactors that passed the documented public-boundary review. It is not a complete academic archive or answer bank. Public visibility does not grant permission to reuse the material, and no blanket license is provided. Source repositories and their histories remain unchanged.
 
-The intended repository is a curated showcase of user-authored, permission-safe work. It is not a complete academic archive or answer bank. Source repositories and their histories remain unchanged.
-
-## Currently staged
+## Included projects
 
 - IS 2053: Retail Discount Calculator (portfolio refactor)
 - IS 2053: Golf Score Tracker (portfolio refactor)
 
-## Not staged
+## Intentionally excluded
 
 - Raw PDFs, notebooks, RTFs, C++ archives, credentials, course prompts, instructor materials, third-party captures, and original Git history
 - Any work requiring course-publication permission or privacy redaction
