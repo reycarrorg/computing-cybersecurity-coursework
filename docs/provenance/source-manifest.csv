@@ -1,0 +1,3 @@
+source_repository,source_commit,source_path,proposed_destination,status
+IS-2053-008-Programming-I,d5d49b5d9d800828c22736729d8d0f510a23877a,"Portfolio/Projects/Retail Discount Calculator","courses/is-2053/projects/retail-discount-calculator","STAGED LOCALLY"
+IS-2053-008-Programming-I,d5d49b5d9d800828c22736729d8d0f510a23877a,"Portfolio/Projects/Golf Score Tracker","courses/is-2053/projects/golf-score-tracker","STAGED LOCALLY"
